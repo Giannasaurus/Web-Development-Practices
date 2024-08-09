@@ -1,0 +1,81 @@
+/* DESIGN LINK
+https://github.com/Geeky-star/Footer-and-Header-design-Challenge.git
+Folder 'Colorful Footer'
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body {
+  font: 400 1em 'Inter', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-container__flex {
+  position: absolute;
+  bottom: 0; 
+  display: flex;
+  align-content: stretch;
+}
+
+.footer-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-areas: 'info links copyright contact';
+}
+
+.column-1 {
+  background-color: #f35f32;
+  grid-area: info;
+}
+
+.column-2 {
+  background-color: #f591aa;
+  grid-area: links;
+}
+
+.column-3 {
+  background-color: #52726e;
+  grid-area: copyright;
+}
+
+.column-4 {
+  background-color: #bec379;
+  grid-area: contact;
+}
+
+.column-content {
+  padding: 1rem;
+}
+
+.column-title {
+  padding: 0;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.red-text {
+  color: #f35f32;
+}
+
+.pink-text {
+  color: #f591aa;
+}
+
+.green-text {
+  color: #52726e;
+}
+
+.yellow-text {
+  color: #bec379;
+}
+
+.purple-text {
+  color: #5d0f70;
+}
+
+.white-text {
+  color: #fff;
+}
