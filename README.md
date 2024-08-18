@@ -1,7 +1,7 @@
-# WebDevelopment
+# WebDevPractices
 
 Hello!
-This repository contains all my projects related to Web Development.
+This repository contains all my practice projects in Web Development.
 
 ## Geeky-star @github
 * Colorful-Footer
