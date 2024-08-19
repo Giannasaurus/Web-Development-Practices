@@ -11,6 +11,6 @@ Note: For reference, I use an online IDE called Replit.
 * Colorful-Footer
 * Collapsing-Header
 
-## GeeksForFeeks
+## GeeksForGeeks
 * Design a Subscription Page using HTML and CSS
-https://www.geeksforgeeks.org/design-a-subscription-page-using-html-and-css/
+https://www.geeksforgeeks.org/design-a-subscription-page-using-html-and-css
