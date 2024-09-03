@@ -1,4 +1,4 @@
-# WebDevPractices
+# Web Development Practices
 
 Hello!
 This repository contains all my practice projects in Web Development.
